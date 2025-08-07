@@ -1,0 +1,15 @@
+inore Terraform state files
+*.tfstate
+*.tfstate.*
+
+ignore terraform files
+*.terraform
+*.terraform.*
+
+ignore files
+.qodo
+.vscode
+*terraform-key*
+*terraform-key.pem*
+*terraform-key.pub*
+
